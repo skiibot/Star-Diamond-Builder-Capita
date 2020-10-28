@@ -1,0 +1,7 @@
+D:\Csrp_dev_shafiq\Day2\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+D:\Csrp_dev_shafiq\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+D:\Csrp_dev_shafiq\Day2\Day2\bin\Debug\Day2.exe.config
+D:\Csrp_dev_shafiq\Day2\Day2\bin\Debug\Day2.exe
+D:\Csrp_dev_shafiq\Day2\Day2\bin\Debug\Day2.pdb
+D:\Csrp_dev_shafiq\Day2\Day2\obj\Debug\Day2.exe
+D:\Csrp_dev_shafiq\Day2\Day2\obj\Debug\Day2.pdb
